@@ -14,4 +14,11 @@ siendo visibles incluso con telescopios de baja potencia.
 en una composición que compara sus tamaños con el tamaño de Júpiter. 
 En orden descendente, son *Ío*, *Europa*, *Ganimedes* y *Calisto*.
 
-Otros satelites de jupiter son amaltea, adrastea y lisitia, 
+Otros satelites de jupiter son amaltea, adrastea y lisitia
+
+
+Júpiter es el planeta más grande del sistema solar, conocido por su composición gaseosa y su famosa Gran Mancha Roja.
+
+Características Generales
+Tamaño y Composición: Júpiter es un gigante gaseoso, compuesto principalmente de hidrógeno y helio. Con un diámetro de aproximadamente 139,820 kilómetros,
+es más de 11 veces el tamaño de la Tierra y tiene una masa que supera a la de todos los demás planetas del sistema solar combinados. 
